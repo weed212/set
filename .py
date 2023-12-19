@@ -1,6 +1,6 @@
 # ----------------------------------------------------------------------------------------------
 
-# HULK - HTTP Unbearable Load King
+# DOM7 - HTTP Unbearable Load King
 
 #
 
@@ -12,8 +12,7 @@
 
 #
 
-# author : Barry Shteiman , version 1.0
-
+# author : Leonanda, Agil ; version 3.1.7
 # ----------------------------------------------------------------------------------------------
 
 import urllib2
